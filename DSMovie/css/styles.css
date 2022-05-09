@@ -4,7 +4,7 @@
   --hue: 180;
   --color-primary: hsl(var(--hue), 50%, 50%);
   --color-bg: hsl(0, 0%, 87%);
-  --color-text: hsla(0, 0%, 100%, 1);
+  --color-text: hsl(0, 0%, 100%);
   --second-color-text: hsl(0, 0%, 29%);
 }
 
@@ -72,12 +72,11 @@ nav a {
 }
 
 .dsmovie-card {
-  width: 280px;
+  width: 100%;
 }
 
 .dsmovie-card img {
   width: 100%;
-
   border-radius: 8px 8px 0 0;
 }
 
@@ -86,18 +85,21 @@ nav a {
   display: flex;
   flex-direction: column;
   align-items: center;
+  justify-content: space-between;
 
-  text-align: center;
-
-  padding: 10px 0 20px 0;
+  padding: 10px 20px 20px 20px;
 
   border-radius: 0 0 8px 8px;
+
+  min-height: 150px;
 }
 
 .dsmovie-card-description h3 {
   font-size: 14px;
   font-weight: 700;
   margin-bottom: 25px;
+
+  text-align: center;
 }
 
 .dsmovie-card-description .button,
