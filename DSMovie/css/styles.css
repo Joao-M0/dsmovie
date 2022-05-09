@@ -2,4 +2,33 @@
 
 * {
   font-family: 'Open Sans', sans-serif;
+
+  box-sizing: border-box;
+}
+
+html,
+body {
+  background-color: hsl(0, 0%, 87%);
+}
+
+header {
+  background-color: hsla(246, 50%, 50%, 1);
+  color: hsla(0, 0%, 100%, 1);
+}
+
+a,
+a:hover {
+  color: unset;
+  text-decoration: none;
+}
+
+a {
+  display: flex;
+  gap: 10px;
+}
+
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
 }
