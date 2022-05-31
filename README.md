@@ -9,7 +9,8 @@ Projeto realizado durante a Semana Spring React. A ideia do projeto consiste em 
 </ul>
 
 <h2>Certificado de conclusão Semana Spring React</h2>
-![image](https://user-images.githubusercontent.com/98332927/171219632-6a18d8a6-b1e9-430c-96c6-35646673a595.png)
+<a href= "https://learn.devsuperior.com/certificados/5965637">Certificado</a>
+
 
 
 
