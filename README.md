@@ -8,5 +8,7 @@ Projeto realizado durante a Semana Spring React. A ideia do projeto consiste em 
   <li>Library Bootstrap</li>
 </ul>
 
-![image](https://user-images.githubusercontent.com/98332927/171218317-d8b2c20b-88b1-4d43-80d6-4676ed4741f3.png)
+<h2>Certificado de conclusão Semana Spring React</h2>
+![image](https://user-images.githubusercontent.com/98332927/171218983-424d792c-f47b-41f8-88ab-44be18b3591b.png)
+
 
